@@ -3,7 +3,4 @@ Welcome to the GitHub repository for the implementation of codes based on my PhD
 
 If you use the code from this repository for your publications or research, I kindly request that you cite the following paper:
 
-Nearest Neighbor Classification in High Dimensions
-Sampath Deegalla
-Department of Computer and Systems Sciences, Stockholm University, Sweden
-2023
+Sampath Deegalla, "Nearest Neighbor Classification in High Dimensions", PhD Thesis, Department of Computer and Systems Sciences, Stockholm University, Sweden, 2023.
